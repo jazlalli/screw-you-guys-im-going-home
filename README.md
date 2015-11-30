@@ -7,7 +7,9 @@ In an effort to ensure I don't spend too much time in the office (max 8 hours pe
 ### Install
 
 `mkdir -p screw-you-guys-im-going-home && git clone https://github.com/jazlalli/screw-you-guys-im-going-home.git ./screw-you-guys-im-going-home`
+
 `cd screw-you-guys-im-going-home && npm install`
+
 `npm run setup`
 
 **Important note** - The setup process removes any existing install of [sleepwatcher](http://www.bernhard-baehr.de/), and associated LaunchDaemons & LaunchAgents. If you don't want this to happen, don't run the setup. Manual instructions will be provided below (eventually).
